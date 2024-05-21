@@ -1,0 +1,30 @@
+dart/flutter library 
+
+printing
+============
+pub.dev : https://pub.dev/packages/printing
+github.com : https://github.com/DavBfr/dart_pdf
+web demo : https://davbfr.github.io/dart_pdf/
+
+qr code
+============
+pub.dev : https://pub.dev/packages/barcode
+github.com : https://github.com/DavBfr/dart_barcode
+web demo : https://davbfr.github.io/dart_barcode/
+
+x
+============
+pub.dev : x
+github.com : x
+web demo : x
+
+x
+============
+pub.dev : x
+github.com : x
+web demo : x
+
+
+
+
+
